@@ -3,6 +3,8 @@
 本项目用于 **半自动化生成 Nessus 中文报告**。
 通过解析 Nessus 导出的 **CSV 格式报告**，结合内置的 **中文漏洞库（1000+ 条常见漏洞）**，快速生成带有中文描述的 Excel 报告，并提供统计图表、宏脚本等便捷功能。
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
+
 后续版本计划支持 **新漏洞的自动翻译与补充**，实现全自动化生成中文报告。
 
 原文地址（借鉴）:
